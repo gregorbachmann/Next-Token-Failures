@@ -5,11 +5,12 @@
 This is the code used to produce the results presented in the paper TO BE INSERTED.
 
 ## Requirements
-1. *torch 2.2.0*
-2. *transformers 4.37.2*
-3. *numpy 1.26.3*
-4. *tqdm 4.66.1*
-5. *wandb 4.66.1*
+The following packages are needed to run the code:
+1. *torch* 2.2.0
+2. *transformers* 4.37.2
+3. *numpy* 1.26.3
+4. *tqdm* 4.66.1
+5. *wandb* 0.16.2
 
 
 ## Usage
