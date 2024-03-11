@@ -20,5 +20,6 @@ In order to train a GPT-style model from scratch with standard next-token predic
 To train the same model using the reverse encoding, add the flag *--reverse*. In order to train with our teacherless objective, add the flag --teacherless. 
 
 To finetune a pre-trained model like GPT2-large, run the command
->python3 finetune.py --model gpt2-large --n_train 200000 --n_test 20000  --batch_size 16 --dataset graph --deg 2 --path 5 --num_nodes 50 --eval_every 10000 --lr 0.00001
+>python3 finetune.py --model gpt2-large --n_train 200000 --n_test 20000  --batch_size 16 --dataset graph --deg 2 --path 5 --num_nodes 50 --lr 0.00001
+>
 Similarly, you can finetune a Pythia model using the flag --model pythia-410m-deduped. You can also add the flags for reversing and teacherless training as outlined above.
