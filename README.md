@@ -2,7 +2,7 @@
 
 ![](https://github.com/gregorbachmann/Next-Token-Failures/blob/main/imgs/cleverhans.png)
 
-This is the code used to produce the results presented in the paper TO BE INSERTED.
+This is the code used to produce the results presented in the paper [](https://arxiv.org/abs/2403.06963).
 
 ## Requirements
 The following packages are needed to run the code:
